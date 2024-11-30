@@ -19,3 +19,19 @@ If you use ItyFuzz as the fuzz testing tool, you can use the interface provided 
 
 The three numbers in the metrics column represent TP (True Positives), FP (False Positives), and the total number of vulnerabilities, respectively. The method proposed in paper shows a 1.5% improvement in average instruction coverage.The F1-score also increased by 0.072.
 ![image](https://github.com/user-attachments/assets/65bbaed3-9bdb-461e-ae76-a6b8db566967)
+
+## Dataset
+
+| Contract Type | Count | Percentage |
+|----------|----------|----------|
+| Tokens | 810 | 38.7% |
+| DeFi | 550 | 26.3% |
+| NFT Market | 200 | 9.6% |
+| Governance & Voting Contracts | 180 | 8.6% |
+| Multisig Wallet Contracts | 120 | 5.7% |
+| Cross-Chain Bridges Contracts | 90 | 4.3% |
+| Gaming & Metaverse Contracts | 70 | 3.3% |
+| Charity & Crowdfunding Contracts | 50 | 2.4% |
+| Infrastructure Contracts | 60 | 2.9% |
+| Other Contracts | 14 | 0.7% |
+| Total | 2094 | 100% |
