@@ -22,6 +22,8 @@ The three numbers in the metrics column represent TP (True Positives), FP (False
 
 ## Dataset
 
+Distribution of Contract Types in Dataset B2
+
 | Contract Type | Count | Percentage |
 |----------|----------|----------|
 | Tokens | 810 | 38.7% |
