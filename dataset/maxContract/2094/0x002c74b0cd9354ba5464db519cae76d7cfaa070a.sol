@@ -23,7 +23,7 @@ library SafeMath {
     return c;
   }
 }
-
+   
 contract Ownable {
   address public owner;
   function Ownable() {
