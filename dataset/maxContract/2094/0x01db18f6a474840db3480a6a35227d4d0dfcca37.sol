@@ -17,7 +17,7 @@ contract ERC20 {
     event Approval(address indexed owner, address indexed spender, uint value);
 }
 
-        
+          
 /**
  * Math operations with safety checks
  */
